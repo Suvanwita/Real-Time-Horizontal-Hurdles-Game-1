@@ -10,12 +10,12 @@ var form, player, game;
 
 var cars, car1, car2, car3, car4;
 function preload(){
-  car1Img=loadImage("../PLAYER.JFIF");
-  car2Img=loadImage("../PLAYER.JFIF");
-  car3Img=loadImage("../PLAYER.JFIF");
-  car4Img=loadImage("../PLAYER.JFIF");
-  //groundImg=loadImage("../PLAYER.jfif");
-  trackImg=loadImage("../track.jpg");
+  car1Img=loadImage("PLAYER.JFIF");
+  car2Img=loadImage("PLAYER.JFIF");
+  car3Img=loadImage("PLAYER.JFIF");
+  car4Img=loadImage("PLAYER.JFIF");
+  //groundImg=loadImage("PLAYER.jfif");
+  trackImg=loadImage("track.jpg");
   
 }
 
